@@ -24,7 +24,8 @@ Imagine a module that demands not merely understanding data but wielding it as a
 
 - **Graph Analysis Adventures:** Delving into graph representations of data, with a focus on applications in social network analysis and relational learning.
 
-**Tools used**
+**Tools used:**
+
 While there was less emphasis on practical programming using Python or R, the course did provide a unique perspective on the application of these foundational concepts. Weka, a powerful tool for data analysis and machine learning, was the primary tool employed to test our comprehension. Through assignments and problem-solving exercises, we were challenged to apply these theories to real-life datasets, testing our ability to translate theoretical knowledge into actionable insights. 
 
 **Portfolio Highlights:**
